@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		845032591C914F89006D5838 /* CalculatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 845032581C914F89006D5838 /* CalculatorManager.m */; settings = {ASSET_TAGS = (); }; };
+		845032591C914F89006D5838 /* CalculatorManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 845032581C914F89006D5838 /* CalculatorManager.m */; };
 		8455B2781C8FC547004884F6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B2771C8FC547004884F6 /* main.m */; };
 		8455B27B1C8FC547004884F6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B27A1C8FC547004884F6 /* AppDelegate.m */; };
 		8455B27E1C8FC547004884F6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B27D1C8FC547004884F6 /* ViewController.m */; };
 		8455B2811C8FC547004884F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8455B27F1C8FC547004884F6 /* Main.storyboard */; };
 		8455B2831C8FC547004884F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8455B2821C8FC547004884F6 /* Assets.xcassets */; };
 		8455B2861C8FC547004884F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8455B2841C8FC547004884F6 /* LaunchScreen.storyboard */; };
-		8455B28F1C8FFF13004884F6 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B28E1C8FFF13004884F6 /* OneViewController.m */; settings = {ASSET_TAGS = (); }; };
-		8455B2921C900E69004884F6 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B2911C900E69004884F6 /* TwoViewController.m */; settings = {ASSET_TAGS = (); }; };
+		8455B28F1C8FFF13004884F6 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B28E1C8FFF13004884F6 /* OneViewController.m */; };
+		8455B2921C900E69004884F6 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8455B2911C900E69004884F6 /* TwoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -125,6 +125,7 @@
 				TargetAttributes = {
 					8455B2721C8FC547004884F6 = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = Q3JS9JRXZV;
 					};
 				};
 			};
@@ -279,6 +280,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q3JS9JRXZV;
 				INFOPLIST_FILE = BlockTest_manual/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -291,6 +293,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Q3JS9JRXZV;
 				INFOPLIST_FILE = BlockTest_manual/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
